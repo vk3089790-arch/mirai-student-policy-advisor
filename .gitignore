@@ -1,0 +1,8 @@
+.env
+chroma_db/
+*.pdf
+!Mirai_SoT_Policy_Handbook_2026.pdf
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
